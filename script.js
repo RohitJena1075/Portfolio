@@ -20,6 +20,10 @@
 
 //     typeEffect();
 // });
+// Always scroll to top on page reload
+window.addEventListener("beforeunload", () => {
+  window.scrollTo(0, 0);
+});
 
 document.getElementById("contact-form").addEventListener("submit", function (e) {
   e.preventDefault();
