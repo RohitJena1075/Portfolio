@@ -4,19 +4,6 @@ This is my personal developer portfolio website built with **HTML**, **CSS**, **
 
 > 🚀 Live Demo: [View Portfolio](https://ro08hi11t23portfolio.netlify.app/)  
 
----
-
-## 📚 Features
-
-- 🎨 Smooth, modern UI with responsive design
-- 💬 Contact form powered by **EmailJS**
-- 🧠 Projects section with hover animations and tech tags
-- 📘 Education & Experience timeline with animated cards
-- ⚙️ Mobile menu toggle for smaller screens
-- 🎯 Scroll-triggered animations on every section
-
----
-
 ## 🛠️ Tech Stack
 
 - **HTML5**
