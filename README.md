@@ -2,7 +2,14 @@
 
 This is my personal developer portfolio website built with **HTML**, **CSS**, **JavaScript**, and styled using **Tailwind CSS**. It showcases my skills, projects, experience, and contact information.
 
-> 🚀 Live Demo: [View Portfolio](https://ro08hi11t23portfolio.netlify.app/)  
+> 🚀 Live Demo: [View Portfolio](https://ro08hi11t23portfolio.netlify.app/)
+> ## 🖼️ Demo Screenshot
+
+![Portfolio Demo](https://www.dropbox.com/scl/fi/2qf9oqnroa7bp9lcoz9v0/Screenshot-2025-05-12-220500.png?rlkey=x1nsml558bcbe500ebbz6ssma&st=rpyadobt&dl=0)
+
+> This shows the home page, project cards, and responsive layout in action.
+
+...
 
 ## 🛠️ Tech Stack
 
@@ -23,3 +30,4 @@ This is my personal developer portfolio website built with **HTML**, **CSS**, **
 ├── script.js         # JS logic (form, scroll, menu)
 ├── /assets/          # Images (project screenshots, logos)
 └── README.md         # You’re reading it!
+
