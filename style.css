@@ -2,13 +2,33 @@ body {
   font-family: 'Poppins', sans-serif;
   scroll-behavior: smooth;
 }
+.nav-link {
+  
+}
+
+.nav-link.active {
+  color: #c084fc; /* light purple */
+}
+
+.nav-link.active::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  left: 0;
+  bottom: -4px;
+  background-color: #9333ea; /* purple underline */
+}
+
 
 .nav-link {
   position: relative;
   color: white;
   transition: all 0.3s ease;
   display: inline-block;
+  transition: all 0.3s ease;
 }
+
 
 .nav-link::after {
   content: '';
