@@ -2,8 +2,7 @@
 
 This is my personal developer portfolio website built with **HTML**, **CSS**, **JavaScript**, and styled using **Tailwind CSS**. It showcases my skills, projects, experience, and contact information.
 
-> 🚀 Live Demo: [View Portfolio](https://yourusername.github.io/your-repo/)  
-> ✉️ Contact Me: r.jena1075@gmail.com
+> 🚀 Live Demo: [View Portfolio](https://ro08hi11t23portfolio.netlify.app/)  
 
 ---
 
