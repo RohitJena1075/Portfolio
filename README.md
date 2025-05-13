@@ -5,6 +5,7 @@ This is my personal developer portfolio website built with **HTML**, **CSS**, **
 > - 🚀 Live Demo: [View Portfolio](https://ro08hi11t23portfolio.netlify.app/)
 
 > - Demo Screenshot: ![Demo Screenshot](./assests/image.png?raw=true "Demo Screenshot")
+> - ![Demo Screenshot](./assests/?raw=true "Demo Screenshot")
 ----
 
 ## 🛠️ Tech Stack
